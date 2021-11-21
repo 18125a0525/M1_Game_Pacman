@@ -1,4 +1,4 @@
 LOW LEVEL REQUIREMENTS:
 
-RAM speed low
-Low data is require
+* RAM speed low.
+* Low data is require
